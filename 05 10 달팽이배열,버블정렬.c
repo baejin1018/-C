@@ -48,7 +48,7 @@
 //    return 0;
 //}
 
-////버블 배열
+////버블 정렬
 //#include <stdio.h>
 //#define _CRT_SECURE_NO_WARNINGS
 //
